@@ -9,7 +9,7 @@ namespace Specifications
         {
             BusinessIdSpecification BISmanager = new BusinessIdSpecification();
             BusinessID id;
-            id.y_tunnus = "1245367-T";
+            id.y_tunnus = "1S45367-5";
             Console.WriteLine(BISmanager.IsSatisfiedBy(id) ? "Satisfied" : string.Join("\n",BISmanager.ReasonsForDissatisfaction));
 
             Console.WriteLine("Press any key to exit.");
