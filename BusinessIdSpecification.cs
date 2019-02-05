@@ -44,7 +44,7 @@ namespace Specifications
         }
         
         //  <summary>
-        //  Check if entity accepted by BusinessIDSpecification
+        //  Checks if entity accepted by BusinessIDSpecification
         //
         //  </summary>
         public bool IsSatisfiedBy(BusinessID entity)
