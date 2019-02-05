@@ -1,0 +1,10 @@
+A:\Programming\CGI_Intervju\CGI_Intervju\ConsoleApp1\bin\Debug\netcoreapp2.1\Intervju.deps.json
+A:\Programming\CGI_Intervju\CGI_Intervju\ConsoleApp1\bin\Debug\netcoreapp2.1\Intervju.runtimeconfig.json
+A:\Programming\CGI_Intervju\CGI_Intervju\ConsoleApp1\bin\Debug\netcoreapp2.1\Intervju.runtimeconfig.dev.json
+A:\Programming\CGI_Intervju\CGI_Intervju\ConsoleApp1\bin\Debug\netcoreapp2.1\Intervju.dll
+A:\Programming\CGI_Intervju\CGI_Intervju\ConsoleApp1\bin\Debug\netcoreapp2.1\Intervju.pdb
+A:\Programming\CGI_Intervju\CGI_Intervju\ConsoleApp1\obj\Debug\netcoreapp2.1\Intervju.csproj.CoreCompileInputs.cache
+A:\Programming\CGI_Intervju\CGI_Intervju\ConsoleApp1\obj\Debug\netcoreapp2.1\Intervju.AssemblyInfoInputs.cache
+A:\Programming\CGI_Intervju\CGI_Intervju\ConsoleApp1\obj\Debug\netcoreapp2.1\Intervju.AssemblyInfo.cs
+A:\Programming\CGI_Intervju\CGI_Intervju\ConsoleApp1\obj\Debug\netcoreapp2.1\Intervju.dll
+A:\Programming\CGI_Intervju\CGI_Intervju\ConsoleApp1\obj\Debug\netcoreapp2.1\Intervju.pdb
